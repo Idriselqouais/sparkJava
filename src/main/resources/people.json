@@ -1,0 +1,12 @@
+{"name":"Michael","id": "1","prenom":"idris","dept":"Informatique","fonction":"Etud","salaire":"10000 DH"},
+{"name":"Idris","id":"2","prenom":"idris","dept":"Informatique","fonction":"Prof","salaire":"10000 DH"},
+{"name":"Elqoauis","id":"3","prenom":"idris","dept":"Informatique","fonction":"Prof","salaire":"10000 DH"},
+{"name":"Ahmed","id":"4","prenom":"mohamed","dept":"Informatique","fonction":"Prof","salaire":"10000 DH"},
+{"name":"Ali","id":"5","prenom":"younes","dept":"Mecanique","fonction":"Prof","salaire":"10000 DH"},
+{"name":"Amina","id":"6","prenom":"saide","dept":"Mecanique","fonction":"Etud","salaire":"15000 DH"},
+{"name":"Wiame","id":"7","prenom":"waaziz","dept":"Mecanique","fonction":"Etud","salaire":"17000 DH"},
+{"name":"Amina","id":"8","prenom":"saide","dept":"Industriel","fonction":"Etud","salaire":"14000 DH"},
+{"name":"Rachid","id":"9","prenom":"zoir","dept":"Industriel","fonction":"Etud","salaire":"15000 DH"},
+{"name":"Mohamed","id":"9","prenom":"ahmed","dept":"Industriel","fonction":"Etud","salaire":"15000 DH"},
+{"name":"Rachid","id":"10","prenom":"kwaysse","dept":"Industriel","fonction":"Etud","salaire":"15000 DH"},
+
